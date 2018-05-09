@@ -1,0 +1,3 @@
+cin vs cin.get
+cin doesn't count the spaces, new line an the tabs.
+but cin.get counts these things.
